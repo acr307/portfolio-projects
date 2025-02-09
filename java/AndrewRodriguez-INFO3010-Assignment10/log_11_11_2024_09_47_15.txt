@@ -1,0 +1,4 @@
+Nov 11, 2024 9:47:36 PM controllers.inputformcontrollers.InputStockQuoteFormController saveData
+FINEST: Creating stock quote with the following values: Ticker Symbol:AAPL, Price:100.0
+Nov 11, 2024 9:47:46 PM controllers.inputformcontrollers.InputStockQuoteFormController saveData
+FINEST: Creating stock quote with the following values: Ticker Symbol:DIS, Price:40.0
